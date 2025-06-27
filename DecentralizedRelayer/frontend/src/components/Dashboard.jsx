@@ -109,12 +109,10 @@ const Dashboard = () => {
       </main>
       <footer className="py-4 px-6 border-t border-gray-200 bg-white">
         <div className="max-w-6xl mx-auto flex items-center justify-center gap-2 text-sm text-gray-600">
-          <span>Made By Rishi Agarwal- Team Sanghatan</span>
           <span className="px-2">•</span>
           <span>Cipher Flow</span>
           <span className="px-2">•</span>
           <a 
-            href="https://github.com/Rishi2k3/Cipher_Flow" 
             target="_blank" 
             rel="noopener noreferrer"
             className="ml-2 p-1 hover:text-purple-600 transition-colors duration-200"
